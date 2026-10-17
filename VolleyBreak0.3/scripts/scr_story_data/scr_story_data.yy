@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_story_data",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_story_data",
+  "parent":{
+    "name":"01_Core",
+    "path":"folders/01_Core.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

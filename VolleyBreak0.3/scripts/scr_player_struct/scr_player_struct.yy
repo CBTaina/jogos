@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_player_struct",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_player_struct",
+  "parent":{
+    "name":"01_Core",
+    "path":"folders/01_Core.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_match_enums",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_match_enums",
+  "parent":{
+    "name":"01_Core",
+    "path":"folders/01_Core.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
